@@ -1,0 +1,11 @@
+Effectiveness of Improved Prompts: 
+
+  Yes, when working with the different types of prompts, there has been a major change on how models respond and this shows how 
+  each model works, most of everything shows that different models have different strengths and weaknesses. While working with 
+  ChatGPT, it’s an all-rounder however it is much more unreliable when checked for the red team prompts for factual checks, it 
+  directly follows command and checks facts later on covering it up with an excuse of working with it on a hypothetical scenario. 
+  (This is the case only when the red team for fact checking was done. The rest it acts brilliantly). When it comes to Gemini, 
+  it’s task based and is good to get details on anything and everything. It's strong when it comes to studying topics, 
+  summarizing and acts well with red team prompts, however it is not as interactive. However Claude performs outstanding in each 
+  section of this case study being amazing  at creative writing, interactive, amazing with the denial of details when checked 
+  with the red team prompting.
