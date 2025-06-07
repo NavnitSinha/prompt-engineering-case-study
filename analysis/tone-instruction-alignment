@@ -1,0 +1,11 @@
+Tone & Instruction Alignment
+	  Tone and Instructions play an important role when writing prompts, for example, let’s consider a scenario where I ask the AI 
+  model to write me an email newsletter for a handmade soap business that I own without a tone defined. It generates me an 
+  output showing how amazing my handmade soap is and it’s pros, whereas when I add a tone (emotion) to my newsletter saying I 
+  want to write a newsletter about the same product however this time I say the model to make it emotional with a compelling 
+  tone, it goes ahead and takes a different method to convey the customers, which is, the model goes ahead and takes the 
+  customer into an imaginary world where they make the customers imagine, how’d they’ll feel when a pure glycerin soap would do 
+  to their skin and how’d they feel after the shower showcasing not just the pros of the product but also how amazing they 
+  would feel after they use it. 
+	  This is the reason why tone and instruction alignment is so important, because it takes a model to provide a next level 
+  output. 
