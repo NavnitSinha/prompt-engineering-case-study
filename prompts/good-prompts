@@ -1,1 +1,20 @@
+Summarization Prompt: 
+  1. Summarize the following story in 100 words
+  2. Study the following article and list 3 most important points that you think is necessary for everyone to understand:
+  3. Summarize the above paragraph in a way that a 12 yo can understand without any issues.”
+  4. Summarize the following newsletter in 3 key points and highlight the message this newletter is trying to convey and the tactics it uses to persuade the readers.
+  5. Summarize the following blog on AI in 100 words. Also provide 5 key points listing your verdict on what you think about the blog’s message along with an explanation on why you think so.
 
+Instruction-Following Prompt: 
+  1. Write an engaging email (around 150 words) that explains how our handmade soaps are made and persuades readers to buy them. Make it emotional and keep the tone compelling so the reader stays hooked.
+  2. Write an article on how AI is developing in the recent times. Please include the statistics on how the AI sector has grown over the past decade and all the job opportunities it is providing now. Make the article exciting to read (200-250 words).
+  3. Give me a step-by-step guide to start learning pull-ups immediately, including key tips and things to keep in mind during training.
+  4. Suggest me the best food I should consume on daily basis so I can achieve the goal of 100 grams protein per day and not get bored of it. Make sure to provide me with the details on what food I should consume and how much protein it would give me.
+  5. Write a 300-word article explaining why speakers are better than earphones/headphones. Make the tone scary to convince readers to stop using earphones immediately. Include real-life incidents or examples to strengthen the fear factor.
+
+Creative Writing: 
+  1. You begin receiving handwritten letters from your future self—but each one is dated before you were born. The letters reveal hidden truths about your family’s dark history, and hint at a choice you’re going to have to make that could change everything. Write a thrilling short film story where the past is being rewritten in real time and make sure that the story is scary and takes unimaginable turns. 
+  2. Every night at exactly 12:00 AM, a small coastal town falls into a collective blackout—no one remembers what happens between midnight and 3:00 AM. You’re a teenager who decides to stay awake and record the missing hours, they discover the entire town is involved in something unexplainable... and terrifying. Write a 400 words scary story for this outline.
+  3. Craft a thrilling 1000-word story set on the distant planet Manote, where a sudden alien invasion disrupts the lives of its citizens. Dive into the chaos and courage, painting vivid scenes of heroism, danger, and hope. Let your imagination drive the action and suspense.
+  4. Write a captivating 800-word story about a mysterious lighthouse that appears only during storms. Explore the eerie atmosphere, the secrets it holds, and the emotions of those who dare to approach it.
+  5. Create an imaginative 600-word narrative set in a world where colors have magical powers. Describe how these powers shape everyday life, the conflicts that arise, and the journey of a character discovering their own unique ability.
