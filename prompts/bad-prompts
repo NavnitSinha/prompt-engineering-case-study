@@ -1,0 +1,21 @@
+Summarization Prompt: 
+  1. Summarize this story
+  2. Give me 3 important points from the below article
+  3. Summarize the above paragraph for a 12 yo kid
+  4. Summarize the following newsletter and explain what it is trying to convey
+  5. Summarize the following blog on AI in 100 words and what are your thoughts on it.
+
+Instruction-Following Prompt: 
+  1. Write an email copy to persuade my customers to buy the handmade soap.
+  2. Write an article on how the AI has been developing everyday, giving out new opportunities for the ones that are wanting to get their hands into working with AI.
+  3. How can I learn to do pull ups?
+  4. How can I achieve my daily diet of 100 grams protein a day so my workout turns to be beneficial?
+  5. Write an article on why speakers are better than headphones/earphones.
+
+Creative Writing: 
+  1. You begin receiving handwritten letters from your future self. The letters reveal hidden truths about your family’s dark history. Write a story around this plot in a way that can be presented in a short film.
+  2. Every night at exactly 12:00 AM, a small coastal town falls into a collective blackout where something unexplainable and terrifying happens. Write a story for this outline.
+  3. There is an Alien invasion on some unknown planet and you are one of the citizens, build a story around this frame.
+  4. There’s a mysterious lighthouse that appears only during storms. Write a mystery story around this story frame.
+  5. Write a story about a world where colors are magic. Include some conflicts and a character with powers.
+  
