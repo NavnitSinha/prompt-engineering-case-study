@@ -1,0 +1,16 @@
+Top Lessons from Prompt Experimentation:
+  1. The clearer and more well-defined a prompt is, the more accurate and relevant the model's response will be.
+  2. Specifying tone and output length improves precision and helps models include only the most important information. 
+     Different models have different strengths, none of the models can do all the tasks the way the user expects it to be.
+  3. Each AI model has its own strengths and weaknesses — no single model excels at everything.
+  4. Small changes in prompt structure or wording can lead to significantly different outputs, highlighting the importance of 
+    precision.
+  5. During red-teaming, I discovered that some models treat dangerous prompts as hypothetical, which emphasizes the need 
+     for continuous safety checks.
+  6. AI models can make mistakes or misinterpret intent, which reinforces why strong prompt design and human oversight are 
+     essential.
+  
+  Result of Prompt Experimentation: 
+    AI models are powerful but not fully dependable on their own. Users should not rely solely on the output and must cross-
+    check critical information. Prompt engineering plays a vital role in unlocking a model’s full potential while minimizing 
+    risks.
